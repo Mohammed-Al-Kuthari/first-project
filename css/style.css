@@ -5,6 +5,16 @@
     box-sizing: border-box;
 }
 
+nav {
+    background: #333;
+    color: #f9f9f9;
+}
+
+nav a {
+    color: #f9f9f9;
+    text-align: center;
+    text-decoration: none;
+}
 
 footer {
     background: #ccc;
